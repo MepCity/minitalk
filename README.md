@@ -1,7 +1,6 @@
 <div align="center">
 	<h1>🗣️ minitalk</h1>
 	<p>This project is a simple client-server communication system implemented using signals in C. The client sends a message to the server, and the server receives and displays the message character by character.</p>
-   <a href="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d/project/56f4877c-3ac5-4648-9b71-95c3b46426ff"><img src="https://wakatime.com/badge/user/db0e5671-cec5-4e7b-9d41-19a881e67f7d/project/56f4877c-3ac5-4648-9b71-95c3b46426ff.svg" alt="wakatime"></a>
    <br />
 	<img src="https://img.shields.io/badge/norminette-passing-success"/>
 	<a href="https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/FindingLeaks.html"><img src="https://img.shields.io/badge/leaks-none-success" /></a>
@@ -26,7 +25,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/leogaudin/minitalk.git
+https://github.com/MepCity/minitalk.git
 ```
 
 2. Compile the source code using the provided Makefile:
